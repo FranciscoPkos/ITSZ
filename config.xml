@@ -13,5 +13,5 @@ APLICACIÓN PARA ORIENTACIÓN DE  NUEVOS ALUMNOS INTERESADOS EN EL INSTITUTO SUP
 <author href="https://example.com" email="you@example.com">
 FRANCISCO JUVENTINO AGUILAR FIGUEROA 
 </author>
-
+ <icon src="icon.png" />
 </widget>
